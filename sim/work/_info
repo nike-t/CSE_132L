@@ -1,0 +1,536 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad2/2015/winter/jadhavn/132L_ppl/sim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1521896055
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+ID[dU?ZcBg1JV33MR=ULo;2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+R0
+Z4 w1521895292
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/adder.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/adder.sv
+L0 3
+Z5 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z6 !s108 1521896055.000000
+Z7 !s107 /users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RISC_V.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/Datapath.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/Controller.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/hazard_helper.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/HazardDetector.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/ForwardingUnit.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/forwardB.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/forwardA.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegEXMEM.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegIDEX.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegMEMWB.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegIFID.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegFile.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/alu.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/ALUController.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/instructionmemory.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/datamemory.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/mux2.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/imm_Gen.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/flopr.sv|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/adder.sv|
+Z8 !s90 -64|-sv|-f|/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/rtl.cfg|
+!i113 0
+Z9 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu
+R1
+R2
+!i10b 1
+!s100 nmM[oiP`273eajeL^n^4T1
+IYme15P=WWX?mg<cJ6H[ih1
+R3
+!s105 alu_sv_unit
+S1
+R0
+Z10 w1521895291
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/alu.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/alu.sv
+Z11 L0 23
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vALUController
+R1
+R2
+!i10b 1
+!s100 Xn6bF?cPj;jhLiDCIiXPX1
+I;C`n51nT22?ERN;n6]b^C1
+R3
+!s105 ALUController_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/ALUController.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/ALUController.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@a@l@u@controller
+vController
+R1
+Z12 !s110 1521896056
+!i10b 1
+!s100 hbz>RQ?EA^CYY>YE_[Y0n3
+IF=PBB3Gm1:6dTX?40^K_I2
+R3
+!s105 Controller_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/Controller.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/Controller.sv
+L0 22
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@controller
+vdatamemory
+R1
+R2
+!i10b 1
+!s100 :k<h[GCe:F0jU[_`G?g^13
+I6FV5?l`V5h?lb3F<5]N>I0
+R3
+!s105 datamemory_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/datamemory.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/datamemory.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vDatapath
+R1
+R12
+!i10b 1
+!s100 ?L=_SiA^JMBhR^SRbXR1=0
+IEfOW2b]=[MC6VKK==9X280
+R3
+!s105 Datapath_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/Datapath.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/Datapath.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@datapath
+vflopr
+R1
+R2
+!i10b 1
+!s100 `lade[l_6ia=WLHH?;d]40
+IGgn>jJXd3C0=B]bH1@`4c3
+R3
+!s105 flopr_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/flopr.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/flopr.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vforwardA
+R1
+R2
+!i10b 1
+!s100 Z?HYDk;DN;^CmD=TTJ0@f3
+IXm@25<Y<cEP;]7^RWKP1K3
+R3
+!s105 forwardA_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/forwardA.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/forwardA.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nforward@a
+vforwardB
+R1
+R2
+!i10b 1
+!s100 `CYoelL=1bgl>bKa[H_H`0
+IO<X6=Wa;][_<L]C92<XlT3
+R3
+!s105 forwardB_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/forwardB.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/forwardB.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nforward@b
+vForwardingUnit
+R1
+R12
+!i10b 1
+!s100 76^[oA7Qe[P]6JODW_GGe1
+Im7QBa<lRL4KK?SHjQe;n02
+R3
+!s105 ForwardingUnit_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/ForwardingUnit.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/ForwardingUnit.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@forwarding@unit
+vhazard_helper
+R1
+R12
+!i10b 1
+!s100 o:DZ8FAchO`dbSeiML3T;3
+IWzlo[N1PO3C_z06VLZ2K21
+R3
+!s105 hazard_helper_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/hazard_helper.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/hazard_helper.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vHazardDetector
+R1
+R12
+!i10b 1
+!s100 @>oj@N5:jV0mD?0GF^5jK3
+Ig74;]dOAW_<50SGf2=j690
+R3
+!s105 HazardDetector_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/HazardDetector.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/HazardDetector.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@hazard@detector
+vimm_Gen
+R1
+R2
+!i10b 1
+!s100 eCS_<V132TJQVXIWQ24ak2
+IibmIOW::mA5;R`go8C^RM0
+R3
+!s105 imm_Gen_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/imm_Gen.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/imm_Gen.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nimm_@gen
+vinstructionmemory
+R1
+R2
+!i10b 1
+!s100 R`b;kJiCH^hB70ZcfUQTO0
+I6KV]T=iEgjkZMT7W`Za:92
+R3
+!s105 instructionmemory_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/instructionmemory.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/instructionmemory.sv
+L0 5
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vmux2
+R1
+R2
+!i10b 1
+!s100 @X6>V^M3YMfab:XdY67SE1
+IM0nEAfPLQUG[LP:_EkTEf0
+R3
+!s105 mux2_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/mux2.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/mux2.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vRegEXMEM
+R1
+R2
+!i10b 1
+!s100 [WlKf=ZQWWGKMcTEmCYad2
+IBlQ>:ZSib7NPI`<XmZFT40
+R3
+!s105 RegEXMEM_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegEXMEM.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegEXMEM.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@e@x@m@e@m
+vRegFile
+R1
+R2
+!i10b 1
+!s100 8KNcajiYz3o<3@DAo^D3_3
+I4]DN6dRFEl;ba_zI[QMd51
+R3
+!s105 RegFile_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegFile.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegFile.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@file
+vRegIDEX
+R1
+R2
+!i10b 1
+!s100 O9P:U_GzWm3f9DhCN7obn2
+IJdPdQ5=>A@fgHM^RgzILi0
+R3
+!s105 RegIDEX_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegIDEX.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegIDEX.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@i@d@e@x
+vRegIFID
+R1
+R2
+!i10b 1
+!s100 KjTgGAgO`DB?XhO6f29:[0
+IBV=geLOL77Bc75`YF?Q@D3
+R3
+!s105 RegIFID_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegIFID.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegIFID.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@i@f@i@d
+vRegMEMWB
+R1
+R2
+!i10b 1
+!s100 V]e?X9fQ_XgBB`[]c5LEz1
+IZj=iZ71=SI`jdImmcD:dd3
+R3
+!s105 RegMEMWB_sv_unit
+S1
+R0
+R10
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegMEMWB.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RegMEMWB.sv
+L0 4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@m@e@m@w@b
+vriscv
+R1
+R12
+!i10b 1
+!s100 8@8PST48;D2RQB;e<FO8`1
+IO3]4TD753Li6VkU3X0S7m1
+R3
+!s105 RISC_V_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RISC_V.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/design/RISC_V.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vtb_top
+R1
+!s110 1521896060
+!i10b 1
+!s100 FRB>UDU=ehn5Len?dGX2J3
+I5oHIAge8`RPG5RXZA[A9?2
+R3
+!s105 tb_top_sv_unit
+S1
+R0
+R4
+8/users/ugrad2/2015/winter/jadhavn/132L_ppl/verif/tb_top.sv
+F/users/ugrad2/2015/winter/jadhavn/132L_ppl/verif/tb_top.sv
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1521896060.000000
+!s107 /users/ugrad2/2015/winter/jadhavn/132L_ppl/verif/tb_top.sv|
+!s90 -64|-sv|-f|/users/ugrad2/2015/winter/jadhavn/132L_ppl/verif/tb.cfg|-work|work|
+!i113 0
+o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Ttb_top_opt
+!s110 1521896063
+Ve2AF:@2@eYVW^<J9DEk823
+04 6 4 work tb_top fast 0
+o+acc -work work
+ntb_top_opt
+OL;O;10.4c;61

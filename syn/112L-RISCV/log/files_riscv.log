@@ -1,0 +1,165 @@
+analyze -format sverilog {   adder.sv   flopr.sv   imm_Gen.sv   mux2.sv   my_112l_pkg.sv   datamemory.sv   instructionmemory.sv   ALUController.sv   alu.sv   RegFile.sv   RegIFID.sv   RegMEMWB.sv   RegIDEX.sv   RegEXMEM.sv   forwardA.sv   forwardB.sv   ForwardingUnit.sv   HazardDetector.sv   hazard_helper.sv   Controller.sv   Datapath.sv   RISC_V.sv }
+Running PRESTO HDLC
+Searching for ./adder.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/adder.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/adder.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/adder.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/adder.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/adder.sv
+Searching for ./flopr.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/flopr.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/flopr.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/flopr.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/flopr.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/flopr.sv
+Searching for ./imm_Gen.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/imm_Gen.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/imm_Gen.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/imm_Gen.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/imm_Gen.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/imm_Gen.sv
+Searching for ./mux2.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/mux2.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/mux2.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/mux2.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/mux2.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/mux2.sv
+Searching for ./my_112l_pkg.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/my_112l_pkg.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/my_112l_pkg.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/my_112l_pkg.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/my_112l_pkg.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/my_112l_pkg.sv
+Searching for ./datamemory.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/datamemory.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/datamemory.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/datamemory.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/datamemory.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/datamemory.sv
+Searching for ./instructionmemory.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/instructionmemory.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/instructionmemory.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/instructionmemory.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/instructionmemory.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/instructionmemory.sv
+Searching for ./ALUController.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/ALUController.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/ALUController.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/ALUController.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/ALUController.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/ALUController.sv
+Searching for ./alu.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/alu.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/alu.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/alu.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/alu.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/alu.sv
+Searching for ./RegFile.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/RegFile.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/RegFile.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/RegFile.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/RegFile.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegFile.sv
+Searching for ./RegIFID.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/RegIFID.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/RegIFID.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/RegIFID.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/RegIFID.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegIFID.sv
+Searching for ./RegMEMWB.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/RegMEMWB.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/RegMEMWB.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/RegMEMWB.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/RegMEMWB.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegMEMWB.sv
+Searching for ./RegIDEX.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/RegIDEX.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/RegIDEX.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/RegIDEX.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/RegIDEX.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegIDEX.sv
+Searching for ./RegEXMEM.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/RegEXMEM.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/RegEXMEM.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/RegEXMEM.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/RegEXMEM.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegEXMEM.sv
+Searching for ./forwardA.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/forwardA.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/forwardA.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/forwardA.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/forwardA.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/forwardA.sv
+Searching for ./forwardB.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/forwardB.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/forwardB.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/forwardB.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/forwardB.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/forwardB.sv
+Searching for ./ForwardingUnit.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/ForwardingUnit.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/ForwardingUnit.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/ForwardingUnit.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/ForwardingUnit.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/ForwardingUnit.sv
+Searching for ./HazardDetector.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/HazardDetector.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/HazardDetector.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/HazardDetector.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/HazardDetector.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/HazardDetector.sv
+Searching for ./hazard_helper.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/hazard_helper.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/hazard_helper.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/hazard_helper.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/hazard_helper.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/hazard_helper.sv
+Searching for ./Controller.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/Controller.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/Controller.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/Controller.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/Controller.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/Controller.sv
+Searching for ./Datapath.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/Datapath.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/Datapath.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/Datapath.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/Datapath.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/Datapath.sv
+Searching for ./RISC_V.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/RISC_V.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/RISC_V.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/RISC_V.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/RISC_V.sv
+Searching for /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RISC_V.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/adder.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/flopr.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/imm_Gen.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/mux2.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/my_112l_pkg.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/datamemory.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/instructionmemory.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/ALUController.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/alu.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegFile.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegIFID.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegMEMWB.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegIDEX.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RegEXMEM.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/forwardA.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/forwardB.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/ForwardingUnit.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/HazardDetector.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/hazard_helper.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/Controller.sv
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/Datapath.sv
+Warning:  /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/Datapath.sv:132: the undeclared symbol 'Branch' assumed to have the default net type, which is 'wire'. (VER-936)
+Warning:  /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/Datapath.sv:132: the undeclared symbol 'opcode_IFID_Out' assumed to have the default net type, which is 'wire'. (VER-936)
+Warning:  /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/Datapath.sv:147: the undeclared symbol 'ALU_CC_Out' assumed to have the default net type, which is 'wire'. (VER-936)
+Compiling source file /users/ugrad2/2015/winter/jadhavn/132L_ppl//design/RISC_V.sv
+Presto compilation completed successfully.
+Loading db file '/users/ugrad2/2012/spring/pooriam/libraries/saed32lvt_tt1p05vn40c.db'
+Loading db file '/users/ugrad2/2012/spring/pooriam/libraries/saed32sram_tt1p05vn40c.db'
+Loading db file '/ecelib/linware/synopsys15/dc/libraries/syn/dw_foundation.sldb'
+1
+1
